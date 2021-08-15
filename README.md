@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gustavo Roo
 - 👀 I’m interested in mastering my Web Development skills
-- 🌱 I’m currently learning JavasScript
-- 📫 How to reach me groogonzalez@my365.bellevue.edu
+- 🌱 I’m currently learning JavasScript and Node.js
+- 📫 How to reach me? >> groogonzalez@my365.bellevue.edu
 
 <!---
 goostavo25/goostavo25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
