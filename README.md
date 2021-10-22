@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gustavo Roo
 - 👀 I’m interested in mastering my Web Development skills
-- 🌱 I’m currently learning JavasScript and Node.js
+- 🌱 I’m currently learning NoSQL and RESTFul APIs
 - 📫 How to reach me? >> groogonzalez@my365.bellevue.edu
 
 <!---
